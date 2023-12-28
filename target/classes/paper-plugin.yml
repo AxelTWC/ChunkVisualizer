@@ -1,0 +1,4 @@
+name: ChunkVisualizer
+version: '1.0-SNAPSHOT'
+main: axeltwc.chunk_visualizer.ChunkVisualizer
+api-version: '1.20'
